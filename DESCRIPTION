@@ -1,0 +1,12 @@
+Package: bbturns
+Title: select turns form a time series by B-B algorithm
+Version: 1.0.0
+Authors@R: person("Nisus", "Liu", email = "liuhejunlj@163.com", role = c("aut", "cre"))
+Description: select turns form a time series by B-B algorithm
+Depends:
+    R (>= 3.2.5)
+License: GPL-2
+Encoding: UTF-8
+Date: 2017-01-20
+LazyData: true
+RoxygenNote: 6.0.0
